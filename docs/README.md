@@ -1064,9 +1064,9 @@ docs/9-platform-engineering/9.1-backstage.md:
 
 <center>
 
-  ![Liatrio Logomark](../img/favicon.svg ':size=150x150 :class=logo :alt= Liatrio image')
+  ![Liatrio Logomark](../img/DevOps_Skool-removebg-preview.png ':size=150x150 :class=logo :alt= Liatrio image')
 
-# Liatrio's DevOps Bootcamp
+# Cortex DevOps Bootcamp
 
 </center>
 
